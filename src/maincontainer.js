@@ -1,3 +1,4 @@
+import BestFlex from "./bestcard";
 import ButtonContainer from "./buttonconatiner";
 
 const MainContainer = () => {
@@ -5,6 +6,7 @@ const MainContainer = () => {
     <div className="m-container">
       
       <ButtonContainer />
+      <BestFlex/>
     </div>
   );
 };

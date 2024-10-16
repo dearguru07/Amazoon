@@ -126,3 +126,17 @@ body {
   align-items: center;
 margin-top: 9px;
 }
+
+
+.b-i {
+  width: 440px;
+  height: 230px;
+  margin: 7px;
+}
+.b-flex {
+  display: flex;
+  overflow-x: auto;
+  margin: 0px auto;
+  margin-bottom: 30px;
+  width: 85%;
+}
