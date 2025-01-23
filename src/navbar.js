@@ -7,7 +7,7 @@ const Navbar=()=>{
     <i class="bi bi-geo-alt"></i> <p className="other">Delivering to Puttur 517583</p>
     <p className="location">Update location</p>
     </div>
-    <div>
+    <div className="btn-item">
     <input type="text" placeholder="Search Amazon.in" className="search"></input>
     <button className="btn"><i class="bi bi-search"></i></button>
     </div>
